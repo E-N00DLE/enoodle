@@ -20,5 +20,6 @@ Link to your social media connections, too. This theme is set up to use <a href=
 </span>
 <div class="col three caption">
 	email for inquiries.
+	[mail@enoodle.net]
 </div>
 
