@@ -17,10 +17,7 @@ Link to your social media connections, too. This theme is set up to use <a href=
 <br/>
 <span class="contacticon center">
 	<a href="mailto:mail@enoodle.net"><i class="fa fa-envelope-square"></i></a>
-	<a href="https://enoodle.bandcamp.com" target="_blank"><i class="fa fa-bandcamp"></i></a>
-	<a href="https://www.youtube.com/@enoodle" target="_blank"><i class="fa fa-square-youtube"></i></a>
 </span>
-
 <div class="col three caption">
 	email for inquiries.
 </div>
