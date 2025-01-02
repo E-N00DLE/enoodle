@@ -19,7 +19,7 @@ Link to your social media connections, too. This theme is set up to use <a href=
 	<a href="mailto:mail@enoodle.net"><i class="fa fa-envelope-square"></i></a>
 </span>
 <div class="col three caption">
-	email for inquiries.
+	email for inquiries
 	[mail@enoodle.net]
 </div>
 
