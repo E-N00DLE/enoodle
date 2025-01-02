@@ -5,11 +5,11 @@
 .site-header {
 border-bottom: 1px solid $grey-color-light;
 background-color: #000;
-opacity: 0.75;
+opacity: 1;
 position:fixed;
 left:0px;
 top:0px;
-height:56px;
+height:48px;
 width:100%;
 z-index: 50;
 }
@@ -55,7 +55,7 @@ display: line;
     position: relative;
     font-size: 20px;
     display: block;
-    opacity: 0.75;
+    opacity: 1;
     width: 100%;
     text-align: center;
     padding-top: 25px;
