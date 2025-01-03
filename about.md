@@ -4,8 +4,6 @@ title: about
 permalink: /about/
 ---
 
-<img class="col one right" src="/img/prof_pic.jpg">
-
 <br/>
 Evan Naud is an electronic musician and interdisciplinary artist based in Atlanta, GA. An enthusiast of experimental creative interaction, their work as E Noodle is an exploration of hardware and software implementation. Originally realized by combining performance of electric bass and synthesizer programming, any process utilizing digital signals and analog equipment is welcome. 
 
