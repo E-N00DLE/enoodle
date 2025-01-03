@@ -12,6 +12,8 @@ Evan Naud is an electronic musician and interdisciplinary artist based in Atlant
 	<img class="col one" src="{{ site.baseurl }}/img/about/E_max.jpg" alt="" title="E-max-res"/>
 	<img class="col one" src="{{ site.baseurl }}/img/about/en-bio-3.png" alt="" title="E-synth-silhouette"/>
 
+</div>
+
 Inspired by retro consoles and computing, the artist merges modern capability with qualities of years prior. Whether it's through bit-crushed audio, pixel-art resolutions, analog synth tapes, or live performance, E Noodle embraces combining approaches. Throughout this work, they aim to emphasize human aspects within the ever-increasingly computerized world we inhabit.​
 
 <br/>
