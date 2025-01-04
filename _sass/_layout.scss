@@ -53,20 +53,20 @@ display: line;
     left: 0px;
     top: 0px;
     position: relative;
-    font-size: 20px;
+    font-size: 24px;
     display: block;
     opacity: 1;
     width: 100%;
     text-align: center;
-    padding-top: 25px;
+    padding-top: 24px;
     line-height: 3em;
     z-index: 25;
     h1{
         color: $theme-color;
-        font-size:75px;
+        font-size:80px;
     }
     h2{
-        font-size:25px;
+        font-size:40px;
     }
 }
 
@@ -74,8 +74,8 @@ display: line;
  * Site footer  **********************************************************
  */
 .site-footer {
-border-top: 1px solid $grey-color-dark;
-font-size: 10px;
+border-top: 0px solid $grey-color-dark;
+font-size: 16px;
 background-color: $grey-color-dark;
 padding: 2px;
 color: #aaa;
@@ -100,7 +100,7 @@ position: fixed;
 bottom: 50px;
 }
 .paginationicon {
-font-size: 50px;
+font-size: 48px;
 a {
 color: $theme-color;
     }
@@ -112,7 +112,7 @@ color: $theme-color;
 padding: 100px 0; /* VERTICAL PADDING FOR TITLE ON EVERY PAGE */
 }
 .page-heading {
-font-size: 20px;
+font-size: 24px;
 }
 .post-list {
 margin: 0px 0;
@@ -122,9 +122,9 @@ margin-bottom: $vertical-spacing-unit;
     }
 }
 .contacticon {
-font-size: 60px;
+font-size: 80px;
 display:block;
-margin: 10px;
+margin: 8px;
 }
 .center{
 text-align: center;
@@ -136,7 +136,7 @@ text-align: center;
 margin-bottom: $vertical-spacing-unit;
 }
 .post-title {
-font-size: 42px;
+font-size: 48px;
 letter-spacing: -1px;
 line-height: 1;
 @include media-query($on-laptop) {
@@ -145,21 +145,21 @@ font-size: 36px;
 }
 .post-content {
 h2 {
-font-size: 42px;
+font-size: 48px;
 @include media-query($on-laptop) {
 font-size: 28px;
         }
     }
 h3 {
-font-size: 30px;
+font-size: 32px;
 @include media-query($on-laptop) {
 font-size: 22px;
         }
     }
 h4 {
-font-size: 20px;
+font-size: 24px;
 @include media-query($on-laptop) {
-font-size: 18px;
+font-size: 20px;
         }
     }
 }
