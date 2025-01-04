@@ -2,7 +2,7 @@
 layout: post
 title: Project
 description: a project with a background image
-img: /img/12.jpg
+img: /img/portfolio/SuperBloom/bell-preview02.jpg
 ---
 
 Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
@@ -18,9 +18,9 @@ To give your project a background in the portfolio page, just add the img tag to
 
 
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/3.jpg" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/portfolio/SuperBloom/bell-preview01.jpg" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/portfolio/SuperBloom/bell-preview02.jpg" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/portfolio/SuperBloom/bell-preview03.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
 	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
