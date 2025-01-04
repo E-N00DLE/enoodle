@@ -28,7 +28,7 @@ $base-font-family: '8bitoperator JVE';
 $base-line-height:              1.5em;
 $horizontal-spacing-unit:       50px;
 $vertical-spacing-unit:         40px;
-$nav-height:                    56px;
+$nav-height:                    48px;
 
 
 /* portfolio tinkering */
@@ -182,7 +182,7 @@ blockquote {
  */
 pre,
 code {
-    font-size: 15px;
+    font-size: 16px;
     border-radius: 3px;
     background-color: $grey-color-light;
 }
