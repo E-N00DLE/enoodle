@@ -8,4 +8,4 @@ date: 2015-07-06 07:59:00
 
 please display a PDF.
 
-<a href="/pdf/Neil Postman “The Age of Show Business”.pdf" target="_blank">PDF.</a>
+<a href="/pdf/Neil Postman “The Age of Show Business”.pdf" target="_blank">The Age of Show Business.</a>
