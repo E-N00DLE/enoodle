@@ -2,7 +2,7 @@
 layout: post
 title: Project
 description: a project with a background image
-img: !(https://github.com/E-N00DLE/enoodle/blob/a2e6eccc6951676e27edf7462eefe7b9aba9b009/img/portfolio/SuperBloom/bell-preview02.jpg)
+img: ![bell-preview02](https://github.com/user-attachments/assets/0ad9a7c1-bad6-4943-8e96-cfd179c2e3d7)
 ---
 
 Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
