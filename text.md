@@ -2,7 +2,6 @@
 layout: page
 permalink: /text/
 title: text
-description: Showcase your writing, short stories, or poems. Replace this text with your description.
 ---
 
 <ul class="post-list">
