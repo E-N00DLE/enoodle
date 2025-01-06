@@ -4,6 +4,6 @@ title: PDF?
 date: 2015-07-06 07:59:00
 ---
 
-<object data="../_poetry/pdf/Naud.E-IAP.480-IndependentCreativePracticeApplication-2024.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="/_poetry/pdf/Naud.E-IAP.480-IndependentCreativePracticeApplication-2024.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 creative practice application.
