@@ -3,7 +3,7 @@ layout: post
 title: PDF?
 date: 2015-07-06 07:59:00
 ---
-<embed src="/_poetry/pdf/Naud.E-IAP.480-IndependentCreativePracticeApplication-2024.pdf" />
+<embed src="/_poetry/pdf/Naud.E-IAP.480-IndependentCreativePracticeApplication-2024.pdf" type="application/pdf" />
 
 Call the roller of big cigars,    
 The muscular one, and bid him whip    
