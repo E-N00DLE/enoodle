@@ -4,6 +4,8 @@ title: PDF?
 date: 2015-07-06 07:59:00
 ---
 
-<embed src="https://github.com/E-N00DLE/enoodle/blob/7a87295e2cfb42f3e7705d5a5f36c0a493e3d0a4/_poetry/pdf/Naud.E-IAP.480-IndependentCreativePracticeApplication-2024.pdf" width="480px" height="640px" />
+<object data="_poetry/pdf/Naud.E-IAP.480-IndependentCreativePracticeApplication-2024.pdf" width="1000" height="1000" type='application/pdf'/>
+
+[Naud.E-IAP.480-IndependentCreativePracticeApplication-2024.pdf](https://github.com/user-attachments/files/18313098/Naud.E-IAP.480-IndependentCreativePracticeApplication-2024.pdf)
 
 creative practice application.
