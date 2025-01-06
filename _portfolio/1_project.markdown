@@ -6,9 +6,16 @@ description: a project with a background image
 
 Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
 
+<div class="img_row">
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+" target="_blank"><img class="col one" src="{{ site.baseurl }}http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="TEST IMG" border="8" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img class="col one" src="{{ site.baseurl }}http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="TEST IMG" border="8" /></a>
+<a href="instagram.com" 
+target="_blank"><img class="col one" src="{{ site.baseurl }}https://raw.githubusercontent.com/E-N00DLE/enoodle/refs/heads/master/img/portfolio/SuperBloom/super%20bloom%20instagram.jpg" 
+alt="TEST IMG" border="8" /></a>
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so: 
 
@@ -53,6 +60,10 @@ You can also put regular text between your rows of images. Say you wanted to wri
 
 
 The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above: 
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 	<div class="img_row">
 	  <img class="col two" src="/img/6.jpg"/>
