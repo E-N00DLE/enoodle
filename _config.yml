@@ -22,8 +22,8 @@ collections:
   portfolio:
     output: true
     permalink: /portfolio/:path/
-  poetry:
+  text:
     output: true
-    permalink: /poetry/:path/
+    permalink: /text/:path/
 
 
