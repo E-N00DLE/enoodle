@@ -7,3 +7,5 @@ date: 2015-07-06 07:59:00
 <object data="/pdf/Neil Postman “The Age of Show Business”.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 please display a PDF.
+
+<a href="/pdf/Neil Postman “The Age of Show Business”.pdf" target="_blank">PDF.</a>
