@@ -3,7 +3,8 @@ layout: post
 title: PDF?
 date: 2015-07-06 07:59:00
 ---
-<embed src="/_poetry/pdf/Naud.E-IAP.480-IndependentCreativePracticeApplication-2024.pdf" type="application/pdf" />
+
+<embed src="https://sumanbogati.github.io/sample.pdf" width="480px" height="640px" />
 
 Call the roller of big cigars,    
 The muscular one, and bid him whip    
