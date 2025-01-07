@@ -66,7 +66,7 @@ display: line;
         font-size:80px;
     }
     h2{
-        font-size:40px;
+        font-size:48px;
     }
 }
 
@@ -175,7 +175,7 @@ font-size: 42px;
 
 /** Poem formatting ********************************************/
 .text-title {
-font-size: 24px;
+font-size: 32px;
 line-height: 1;
 @include media-query($on-laptop) {
 font-size: 24px;
