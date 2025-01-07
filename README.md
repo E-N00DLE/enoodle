@@ -1,1 +1,1 @@
-Welcome to E Noodle. Please enjoy your stay.
+E Noodle - electronic musician and interdisciplinary artist.
