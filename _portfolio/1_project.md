@@ -18,8 +18,3 @@ audiovisual composition for [SUPERBLOOM: a southwest drone fest](https://special
 </div>
 <div class="col three caption">
 	Audio features Dreadbox Erebus + Typhon synths recorded to tape. Visuals created in Pure Data with live manipulation of 3D oscilloscopes.
-</div>
-<div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}{{ project.img }}/img/blank.png"/>
-	<img class="col one" src="{{ site.baseurl }}{{ project.img }}/img/portfolio/SuperBloom/super bloom instagram.jpg" alt="" title="SUPERBLOOM_ig"/>
- <img class="col one" src="{{ site.baseurl }}{{ project.img }}/img/blank.png"/>
