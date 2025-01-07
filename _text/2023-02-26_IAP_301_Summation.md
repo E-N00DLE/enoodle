@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Energetic Systems of Art Summation
+title: Summation of Performer Systems
 date: 2023-02-26
 ---
 
