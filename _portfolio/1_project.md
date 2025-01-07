@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SUPERBLOOM Drone Composition
+title: SUPERBLOOM drone composition
 description: for whom / the bell tolls
 img: /img/portfolio/SuperBloom/bell-preview02.jpg
 ---
