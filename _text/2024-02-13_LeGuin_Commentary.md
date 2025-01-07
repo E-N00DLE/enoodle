@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Commentary on The Left Hand of Darkness
+title: Commentary on 'The Left Hand of Darkness'
 date: 2024-02-13
 ---
 
