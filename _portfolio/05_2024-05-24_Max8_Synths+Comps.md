@@ -18,10 +18,10 @@ Audiovisual compositions: [Drone](https://www.youtube.com/watch?v=mUs2e5lTuNg) /
 	<img class="col three" src="{{ site.baseurl }}/img/portfolio/2024-05-24_Max8_Synths+Comps/Max_drone_comp.jpg" alt="" title="Max_drone_comp"/>
 </div>
 <div class="img_row">
-<img class="col one" src="{{ site.baseurl }}/img/portfolio/2024-05-24_Max8_Synths+Comps/Max_additive.jpg" alt="" title="additive_drone_synth"/>
-<img class="col one" src="{{ site.baseurl }}/img/portfolio/2024-05-24_Max8_Synths+Comps/Max_granular.jpg" alt="" title="granular_sample_mangler"/>
-<img class="col one" src="{{ site.baseurl }}/img/portfolio/2024-05-24_Max8_Synths+Comps/Max_poly_gen.jpg" alt="" title="polyrhythmic_synth_patch"/>
+	<img class="col one" src="{{ site.baseurl }}/img/portfolio/2024-05-24_Max8_Synths+Comps/Max_additive.jpg" alt="" title="additive_drone_synth"/>
+	<img class="col one" src="{{ site.baseurl }}/img/portfolio/2024-05-24_Max8_Synths+Comps/Max_granular.jpg" alt="" title="granular_sample_mangler"/>
+	<img class="col one" src="{{ site.baseurl }}/img/portfolio/2024-05-24_Max8_Synths+Comps/Max_poly_gen.jpg" alt="" title="polyrhythmic_synth_patch"/>
 </div>
 <div class="img_row">
-<img class="col three" src="{{ site.baseurl }}img/portfolio/2024-05-24_Max8_Synths+Comps/Max_granular_comp.jpg" alt="" title="Max_granular_comp"/>
+	<img class="col three" src="{{ site.baseurl }}img/portfolio/2024-05-24_Max8_Synths+Comps/Max_granular_comp.jpg" alt="" title="Max_granular_comp"/>
 </div>
