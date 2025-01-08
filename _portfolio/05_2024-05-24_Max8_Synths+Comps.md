@@ -23,5 +23,5 @@ Audiovisual compositions: [Drone](https://www.youtube.com/watch?v=mUs2e5lTuNg) /
 	<img class="col one" src="{{ site.baseurl }}/img/portfolio/2024-05-24_Max8_Synths+Comps/Max_poly_gen.jpg" alt="" title="polyrhythmic_synth_patch"/>
 </div>
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}img/portfolio/2024-05-24_Max8_Synths+Comps/Max_granular_comp.jpg" alt="" title="Max_granular_comp"/>
+	<img class="col three" src="{{ site.baseurl }}/img/portfolio/2024-05-24_Max8_Synths+Comps/Max_granular_comp.jpg" alt="" title="Max_granular_comp"/>
 </div>
