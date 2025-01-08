@@ -4,7 +4,7 @@ title: Dronestrobe feat.
 description: Unknown album (01​/​10​/​2024 14​:​11​:​38)
 img: /img/portfolio/Dronestrobe_Unknown/a1250123165_10.jpg
 ---
-Featured in Dronestrobe release:
+Featured in Dronestrobe compilation release:
 [Unknown album (01​/​10​/​2024 14​:​11​:​38)](https://dronestroberecords.bandcamp.com/album/unknown-album-01-10-2024-14-11-38)
 
 Ten ~30sec tracks of mangled synth sound design and tape recordings. Three ~1min tracks of [WAVE+FORM](https://enoodle.net/portfolio/01_2024-12-12_project/) project demos before release.
