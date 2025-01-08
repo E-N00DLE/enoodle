@@ -5,7 +5,7 @@ description: Live Aktions
 img: /img/portfolio/2024-07-29_Live_Aktions/live_aktions_cover.jpg
 ---
 
-Featured track ['zfts_II'](https://wtc-communications.bandcamp.com/track/zfts-ii) in Welcome to Clydebank physical release: [Live Aktions](https://wtc-communications.bandcamp.com/album/live-aktions)
+Featured track ['zfts_II'](https://wtc-communications.bandcamp.com/track/zfts-ii) in Welcome to Clydebank compilation + physical release: [Live Aktions](https://wtc-communications.bandcamp.com/album/live-aktions)
 
 > Extremely delighted to showcase our most disgruntled and unstable compilation yet (at a staggering 2 and a half hours*), ranging from serene ambience to rigid rhythms, as well as the obvious trademark of anarchic din. Lots of submissions from newcomers and our repertoire of noisemakers alike. All tracks are improvised with barely any edits! 
 
