@@ -24,3 +24,4 @@ Audiovisual compositions: [Drone](https://www.youtube.com/watch?v=mUs2e5lTuNg) /
 </div>
 <div class="img_row">
 <img class="col three" src="{{ site.baseurl }}img/portfolio/2024-05-24_Max8_Synths+Comps/Max_granular_comp.jpg" alt="" title="Max_granular_comp"/>
+</div>
