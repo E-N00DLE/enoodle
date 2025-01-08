@@ -5,7 +5,7 @@ description: multimedia creative coding
 img: /img/portfolio/2024-05-24_Max8_Synths+Comps/Max_additive.jpg
 ---
 
-Three patches for Max 8 visual programming software. Two corresponding compositions, with visuals created using [Hydra video synth.](https://hydra.ojack.xyz/?sketch_id=mahalia_0)
+Three patches for Max 8 visual programming software. Two corresponding compositions with visuals created using [Hydra video synth.](https://hydra.ojack.xyz/?sketch_id=mahalia_0)
 
 Patch downloads + demos: 
 [additive](https://ko-fi.com/s/f788259e6c)
