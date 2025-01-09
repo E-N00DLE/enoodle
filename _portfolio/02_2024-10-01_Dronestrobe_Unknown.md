@@ -7,7 +7,7 @@ img: /img/portfolio/Dronestrobe_Unknown/a1250123165_10.jpg
 Featured in Dronestrobe compilation release:
 [Unknown album (01​/​10​/​2024 14​:​11​:​38)](https://dronestroberecords.bandcamp.com/album/unknown-album-01-10-2024-14-11-38)
 
-Ten ~30sec tracks of mangled synth sound design and tape recordings. Three ~1min tracks of [WAVE+FORM](https://enoodle.net/portfolio/01_2024-12-12_project/) project demos before release.
+Ten ~30sec tracks of mangled synth sound design and tape recordings. Three ~1min tracks of [WAVE+FORM](https://enoodle.net/text/2024-12-13_WAVE+FORM-ProgramNote/) project demos before release.
 
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/portfolio/Dronestrobe_Unknown/a1250123165_10.jpg" alt="" title="Unknown Album cover"/>
