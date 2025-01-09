@@ -19,7 +19,7 @@ div {text-align: center;}
 <br>
 <p>EXPERIMENTATION</p>
 
-_(find what excites you, search for what-ifs)_
+<i>(find what excites you, search for what-ifs)</i>
 
 <div>question the traditional</div>
 
@@ -31,7 +31,7 @@ _(find what excites you, search for what-ifs)_
 <br>
 <p>LIMITATION</p>
 
-_(stretch perceived boundaries, learn capabilities)_
+<i>(stretch perceived boundaries, learn capabilities)</i>
 
 <div>create specific parameters</div>
 
@@ -43,7 +43,7 @@ _(stretch perceived boundaries, learn capabilities)_
 <br>
 <p>IMPERFECTION</p>
 
-_(embrace change, favor motion)_
+<i>(embrace change, favor motion)</i>
 
 <div>discover quirks of every tool</div>
 
@@ -55,7 +55,7 @@ _(embrace change, favor motion)_
 <br>
 <p>THE INTERDISCIPLINARY</p>
 
-_(explore combinations, allow for flexibility)_
+<i>(explore combinations, allow for flexibility)</i>
 
 <div>use tools as needed for execution</div>
 
@@ -67,7 +67,7 @@ _(explore combinations, allow for flexibility)_
 <br>
 <p>CREDIT</p>
 
-_(celebrate others, recognize merits)_
+<i>(celebrate others, recognize merits)</i>
 
 <div>reference original sources</div>
 
