@@ -4,7 +4,6 @@ title: NOODLERS UNITE - Manifesto
 date: 2024-09-11
 ---
 
-<!DOCTYPE html>
 <html>
 <head>
 <style>
@@ -20,9 +19,9 @@ div {text-align: center;}
 
 
 
-****EXPERIMENTATION****
+<p>EXPERIMENTATION</p>
 
-__(find what excites you, search for what-ifs)__
+_(find what excites you, search for what-ifs)_
 
 question the traditional
 
@@ -34,9 +33,9 @@ seek fundamental characteristics of mediums
 
 
 
-****LIMITATION****
+<p>LIMITATION</p>
 
-__(stretch perceived boundaries, learn capabilities)__
+_(stretch perceived boundaries, learn capabilities)_
 
 create specific parameters
 
@@ -48,9 +47,9 @@ pursue understanding of potentials
 
 
 
-****IMPERFECTION****
+<p>IMPERFECTION</p>
 
-__(embrace change, favor motion)__
+_(embrace change, favor motion)_
 
 discover quirks of every tool
 
@@ -62,9 +61,9 @@ embrace acceptance as part of the process
 
 
 
-****THE INTERDISCIPLINARY****
+<p>THE INTERDISCIPLINARY</p>
 
-__(explore combinations, allow for flexibility)__
+_(explore combinations, allow for flexibility)_
 
 use tools as needed for execution
 
@@ -76,9 +75,9 @@ substitute parts and pieces for inspiration
 
 
 
-****CREDIT****
+<p>CREDIT</p>
 
-__(celebrate others, recognize merits)__
+_(celebrate others, recognize merits)_
 
 reference original sources
 
