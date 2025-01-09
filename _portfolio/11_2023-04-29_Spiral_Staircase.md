@@ -5,7 +5,7 @@ description: electro-acoustic music video single
 img: /img/portfolio/2023-04-29_Spiral_Staircase/Spiral.cover.jpg
 ---
 
-Live performance electro-acoustic single 'Spiral_Staircase' presents chromatic jams with Elektron's FM groovebox alongside sample-chopped vocals on a PO-33 K.O! Bridged by sections of ripping lead sequences on Bass Station II, and transitioning into a trio of live drums, bass, and vocals, the accomponying music video places emphasis on the contrast between man and machine as they collaborate together.
+Live performance electro-acoustic single 'Spiral_Staircase' presents chromatic jams with Elektron's FM groovebox alongside sample-chopped vocals on a PO-33 K.O! Bridged by sections of ripping synth sequences and transitioning into a trio of live drums, bass, and vocals, the accompanying music video places emphasis on the contrast between man and machine as they collaborate together.
 
 Full project note [here.](https://enoodle.net/text/2023-04-30_Spiral_Staircase/)
 
