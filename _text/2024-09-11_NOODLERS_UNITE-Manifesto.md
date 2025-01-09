@@ -17,7 +17,7 @@ div {text-align: center;}
 
 <h1>WE VOW TO EMBRACE:</h1>
 <br>
-<p>EXPERIMENTATION</p>
+<b><p>EXPERIMENTATION</p></b>
 
 <i>(find what excites you, search for what-ifs)</i>
 
@@ -29,7 +29,7 @@ div {text-align: center;}
 
 <div>seek fundamental characteristics of mediums</div>
 <br>
-<p>LIMITATION</p>
+<b><p>LIMITATION</p></b>
 
 <i>(stretch perceived boundaries, learn capabilities)</i>
 
@@ -41,7 +41,7 @@ div {text-align: center;}
 
 <div>pursue understanding of potentials</div>
 <br>
-<p>IMPERFECTION</p>
+<b><p>IMPERFECTION</p></b>
 
 <i>(embrace change, favor motion)</i>
 
@@ -53,7 +53,7 @@ div {text-align: center;}
 
 <div>embrace acceptance as part of the process</div>
 <br>
-<p>THE INTERDISCIPLINARY</p>
+<b><p>THE INTERDISCIPLINARY</p></b>
 
 <i>(explore combinations, allow for flexibility)</i>
 
@@ -65,7 +65,7 @@ div {text-align: center;}
 
 <div>substitute parts and pieces for inspiration</div>
 <br>
-<p>CREDIT</p>
+<b><p>CREDIT</p></b>
 
 <i>(celebrate others, recognize merits)</i>
 
