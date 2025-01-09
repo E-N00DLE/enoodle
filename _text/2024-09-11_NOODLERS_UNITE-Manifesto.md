@@ -16,76 +16,66 @@ div {text-align: center;}
 
 
 <h1>WE VOW TO EMBRACE:</h1>
-
-
-
+<br>
 <p>EXPERIMENTATION</p>
 
 _(find what excites you, search for what-ifs)_
 
-question the traditional
+<div>question the traditional</div>
 
-hold no convention as sacred
+<div>hold no convention as sacred</div>
 
-always consider inverse possibilities
+<div>always consider inverse possibilities</div>
 
-seek fundamental characteristics of mediums
-
-
-
+<div>seek fundamental characteristics of mediums</div>
+<br>
 <p>LIMITATION</p>
 
 _(stretch perceived boundaries, learn capabilities)_
 
-create specific parameters
+<div>create specific parameters</div>
 
-work towards defined processes
+<div>work towards defined processes</div>
 
-show that repetition legitimizes
+<div>show that repetition legitimizes</div>
 
-pursue understanding of potentials
-
-
-
+<div>pursue understanding of potentials</div>
+<br>
 <p>IMPERFECTION</p>
 
 _(embrace change, favor motion)_
 
-discover quirks of every tool
+<div>discover quirks of every tool</div>
 
-contextualize error as intention
+<div>contextualize error as intention</div>
 
-search for new qualities of texture
+<div>search for new qualities of texture</div>
 
-embrace acceptance as part of the process
-
-
-
+<div>embrace acceptance as part of the process</div>
+<br>
 <p>THE INTERDISCIPLINARY</p>
 
 _(explore combinations, allow for flexibility)_
 
-use tools as needed for execution
+<div>use tools as needed for execution</div>
 
-combine mediums based on curiosity
+<div>combine mediums based on curiosity</div>
 
-seek understanding interactions
+<div>seek understanding interactions</div>
 
-substitute parts and pieces for inspiration
-
-
-
+<div>substitute parts and pieces for inspiration</div>
+<br>
 <p>CREDIT</p>
 
 _(celebrate others, recognize merits)_
 
-reference original sources
+<div>reference original sources</div>
 
-build upon each others’ ideas
+<div>build upon each others’ ideas</div>
 
-create community through our work
+<div>create community through our work</div>
 
-collaborate across disciplines
+<div>collaborate across disciplines</div>
 
 </body>
 </html>
